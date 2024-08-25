@@ -2,7 +2,7 @@
 
 I'm Lui. I build stuff, and I occasionally break stuff.
 
-I love writing low-level code, such as operating systems, drivers, game engines, compilers, and embedded stuff.
+I love writing low-level code, such as operating systems, drivers, game engines, compilers, and embedded / IoT.
 
 I also love working on games, and I do some 3D modelling on occasion.
 
