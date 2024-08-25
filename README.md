@@ -25,8 +25,6 @@ I also love working on games, and I do some 3D modelling on occasion.
 - CMake
 - GDB
 - Blender
-- FL Studio
-- LMMS
 - ...
 
 ### 🔭 I’m currently working on... 
