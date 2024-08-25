@@ -18,6 +18,9 @@ I also love working on games, and I do some 3D modelling on occasion.
 - C++
 - Java
 - Python
+- Assembly
+- Arduino / avr-libc
+- GNU coreutils, binutils and moreutils
 - VSCode
 - CMake
 - GDB
