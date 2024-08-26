@@ -40,7 +40,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 As long as it's not too far outside my area of expertise, I'm willing to work on it.
 
 ### 📫 You can reach me on:
-[![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kodekun.dev@gmail.com)
+[![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodekun.dev@gmail.com)
 
 
 <!--
