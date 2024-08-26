@@ -4,7 +4,7 @@ I'm Lui. I build stuff, and I occasionally break stuff.
 
 I love writing low-level code, such as operating systems, drivers, game engines, compilers, and embedded / IoT.
 
-I also like working on games, and I do some 3D modelling on the side.
+I also like working on games, and I do some [3D modelling](https://www.artstation.com/av01d) on the side.
 
 I have a passion for Linux and FOSS in general. I use Linux on all my machines, both for development and daily PC usage (including gaming).
 I also try to use FOSS everywhere I possibly can. Whether it's for programming, gaming, music making or art, I always prioritize software that respects the user.
