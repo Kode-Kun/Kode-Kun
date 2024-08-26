@@ -12,11 +12,11 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 
 ### 🛠️ Tools I use daily:
 
-[![My Tools](https://skillicons.dev/icons?i=git,vim,emacs,bash,linux,md&perline=9)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,vim,emacs,bash,linux,md&perline=9)](mytools.md)
 
 ### ⌨️ My favorite programming languages:
 
-[![My Langs](https://skillicons.dev/icons?i=c,zig,rust,haskell&perline=4)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=c,zig,rust,haskell&perline=4)](mylangs.md)
 
 ### 🔎 Other languages / tools I'm familiar with:
 - C++
@@ -42,19 +42,3 @@ As long as it's not too far outside my area of expertise, I'm willing to work on
 ### 📫 You can reach me on:
 [![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodekun.dev@gmail.com)
 [![My Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/349226187899535364)
-
-
-<!--
-**Kode-Kun/Kode-Kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
